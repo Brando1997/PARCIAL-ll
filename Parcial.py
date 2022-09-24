@@ -1,5 +1,3 @@
-from ast import Num
-from cProfile import run
 import threading
 import time
 import random
